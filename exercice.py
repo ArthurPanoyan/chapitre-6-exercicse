@@ -24,6 +24,8 @@ def anagrams(words: list = None) -> bool:
 
         liste1.sort()
         liste2.sort()
+    
+    return liste1 == liste2
 
         print(words[0], words[1])
         pass
