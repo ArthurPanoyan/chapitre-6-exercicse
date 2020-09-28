@@ -3,7 +3,7 @@
 
 
 def order(values: list = None) -> bool:
-   if values is None:
+    if values is None:
      # TODO: Demander les valeurs ici
         values = [input("Entrez...") for _ in range(10)]
 
