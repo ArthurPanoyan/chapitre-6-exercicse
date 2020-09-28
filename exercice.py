@@ -22,7 +22,8 @@ def anagrams(words: list = None) -> bool:
         for i in chaine2:
             liste2.append(i)
 
-    
+        liste1.sort()
+        liste2.sort()
 
         print(words[0], words[1])
         pass
