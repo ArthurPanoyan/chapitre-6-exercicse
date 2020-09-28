@@ -7,7 +7,7 @@ def order(values: list = None) -> bool:
         # TODO: Demander les valeurs ici
         pass
 
-    return False
+    return 
 
 
 def anagrams(words: list = None) -> bool:
