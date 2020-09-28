@@ -5,9 +5,9 @@
 def order(values: list = None) -> bool:
     if values is None:
         # TODO: Demander les valeurs ici
-        pass
+        values = 
 
-    return 
+    return values == sorted(values)
 
 
 def anagrams(words: list = None) -> bool:
