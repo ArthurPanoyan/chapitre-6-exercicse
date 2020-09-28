@@ -27,7 +27,7 @@ def anagrams(words: list = None) -> bool:
     
     return liste1 == liste2
 
-        print(words[0], words[1])
+       
         pass
 
     return False
