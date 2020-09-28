@@ -16,8 +16,10 @@ def anagrams(words: list = None) -> bool:
         chaine2 = input()
         liste1, liste2 = [], []
 
-        for i in chaine1
+        for i in chaine1:
             liste1.append(i)
+        
+        for i in chaine2:
 
         print(words[0], words[1])
         pass
